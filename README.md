@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-WFI-hyung&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun-WFI-hyung&show_icons=true&bg_color=45,EE4C2C,5C3EE8&text_color=FFFFFF&title_color=FCC624&icon_color=FCC624)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun-WFI-hyung&layout=compact&langs_count=5&bg_color=555555&title_color=FCC624&text_color=FFFFFF)](https://github.com/Jun-WFI-hyung/github-readme-stats)
 
 #### Tech Stack</br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white">
